@@ -1,3 +1,3 @@
 # Fundamentos de Python
 
-Progreso: 4/7 ejercicios.
+Progreso: 5/7 ejercicios.
