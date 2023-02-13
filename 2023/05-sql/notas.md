@@ -1,3 +1,3 @@
 # Bases de datos
 
-Progreso: 3/6 ejercicios.
+Progreso: 4/6 ejercicios.
