@@ -1,3 +1,3 @@
 # Backend Python
 
-Progreso: 5/6 ejercicios.
+Progreso: 6/6 ejercicios.
