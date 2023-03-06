@@ -1,3 +1,3 @@
 # Machine learning
 
-Progreso: 4/6 ejercicios.
+Progreso: 5/6 ejercicios.
