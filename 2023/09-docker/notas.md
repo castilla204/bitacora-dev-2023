@@ -1,3 +1,3 @@
 # Contenedores
 
-Progreso: 2/6 ejercicios.
+Progreso: 3/6 ejercicios.
