@@ -1,5 +1,5 @@
 # Mini proyecto integrador — tests basicos
 
-Fecha: 2023-06-20
+Fecha: 2023-07-04
 
 Practica personal de Diego Castilla.
