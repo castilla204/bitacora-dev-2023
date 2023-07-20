@@ -1,5 +1,5 @@
 # Mini proyecto integrador — esquema proyecto
 
-Fecha: 2023-07-11
+Fecha: 2023-07-20
 
 Practica personal de Diego Castilla.
