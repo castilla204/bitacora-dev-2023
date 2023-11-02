@@ -1,5 +1,5 @@
 # Mini proyecto integrador — api rest
 
-Fecha: 2023-10-26
+Fecha: 2023-11-02
 
 Practica personal de Diego Castilla.
