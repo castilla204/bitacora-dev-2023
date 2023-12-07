@@ -1,3 +1,3 @@
 # Mini proyecto integrador
 
-Progreso: 2/7 ejercicios.
+Progreso: 3/7 ejercicios.
