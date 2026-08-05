@@ -20,3 +20,5 @@ Recorrido por Python, web, SQL, Flask, pandas, scikit-learn y Docker. Cada carpe
 | 10-proyecto-final | Mini proyecto integrador |
 
 Año 2023 — repositorio de práctica personal.
+
+<!-- meta:sync 1785961101 -->
