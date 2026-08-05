@@ -22,3 +22,5 @@ Recorrido por Python, web, SQL, Flask, pandas, scikit-learn y Docker. Cada carpe
 Año 2023 — repositorio de práctica personal.
 
 <!-- meta:sync 1785961101 -->
+
+<!-- meta:sync 1785961124 -->
